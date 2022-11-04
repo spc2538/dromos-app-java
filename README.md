@@ -29,7 +29,7 @@ This description it's very short but if you have any questions please don't doub
 The source code it's located inside the src/streets/streets folder.
 
 ## Credits
-If you wish to read one of the best books i have ever read in my life please purchase a copy at amazon.com, the original version:
+If you want to read one of the best books i have ever read in my life please purchase a copy at amazon.com, the original version:
     - https://www.amazon.com/Fundamental-2D-Game-Programming-Java/dp/1305076532
 ![Screenshot](snapshots/41x1Vpt8SSL._SX402_BO1%2C204%2C203%2C200_.jpg)
 
